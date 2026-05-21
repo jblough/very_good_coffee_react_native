@@ -1,5 +1,6 @@
 ## Things still to be completed
 
+- Add tests (React Native Testing Library)
 - Persist storage (@react-native-async-storage/async-storage?)
 - Display images from local storage as well as from the internet
 - When an image is favorite-d, then it should be downloaded to the local filesystem
