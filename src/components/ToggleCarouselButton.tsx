@@ -19,9 +19,6 @@ export const ToggleCarouselButton = ({isOpen, callback}: ToggleCarouselButtonPro
 
 const styles = StyleSheet.create({
     fab: {
-        // position: 'absolute',
-        // left: 20,
-        // bottom: 150,
         backgroundColor: 'brown',
         width: 50,
         height: 50,

@@ -28,10 +28,6 @@ export const FavoriteCarousel = () => {
 
 const styles = StyleSheet.create({
     container: {
-        // position: 'absolute',
-        // left: 20,
-        // right: 20,
-        // bottom: 10,
         elevation: 5,
         backgroundColor: '#000',
         borderRadius: 15,
